@@ -7,8 +7,9 @@
 </p>
 
 <h3 align="center">visitor's count 👀</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ana17hy&color=ffb6c1&style=flat-square" alt="views counter"/>
+  <img src="https://profile-counter.glitch.me/ana17hy/count.svg" alt="ana17hy :: visitor's count" style="filter: hue-rotate(240deg);" />
 </p>
 
 ---
@@ -22,13 +23,13 @@
 
 ---
 
-### 💿 My current vibe
+### 💿
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&bar_color=ffb6c1&bar_color_cover=false" alt="Spotify vibe" />
+  <a href="https://open.spotify.com/user/jdbsl29ltkpw0s28xolrbj0l7" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=ffb6c1&bar_color_cover=false" alt="Spotify now playing" />
+  </a>
 </p>
-
----
 
 ### 🐍 
 
