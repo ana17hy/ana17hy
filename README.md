@@ -17,7 +17,9 @@
 
 🎀 aaa
 
-[![Spotify](http://127.0.0.1:3000/api/view.svg?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=4b61b9&bar_color_cover=false)](https://open.spotify.com/user/jdbsl29ltkpw0s28xolrbj0l7)
+## 🎧 Currently Listening To
+
+[![Spotify](https://spotify-github-profile-2giscuskt-ana17hys-projects.vercel.app/api/view.svg?uid=...)](https://open.spotify.com/user/...)
 
 
 <div align="center">
