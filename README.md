@@ -17,9 +17,6 @@
 
 🎀 aaa
 
-## 🎧 Currently Listening To
-
-[![Spotify](https://spotify-github-profile-2giscuskt-ana17hys-projects.vercel.app/api/view.svg?uid=jdbsl29ltkpw0s28xolrbj0l7&redirect=true)](https://spotify-github-profile-2giscuskt-ana17hys-projects.vercel.app/api/view.svg?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=516185&bar_color_cover=false)
 
 
 <div align="center">
