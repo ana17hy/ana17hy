@@ -17,8 +17,7 @@
 
 🎀 aaa
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdbsl29ltkpw0s28xolrbj0l7&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=true&bar_color=4e62b1&bar_color_cover=true)]]
 
 <div align="center">
   <picture>
