@@ -19,8 +19,7 @@
 
 ## 🎧 Currently Listening To
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?
-uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![http://127.0.0.1:3000/api/view.svg?uid=jdbsl29ltkpw0s28xolrbj0l7&redirect=true][http://127.0.0.1:3000/api/view.svg?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=516185&bar_color_cover=false)]]
 
 <div align="center">
   <picture>
