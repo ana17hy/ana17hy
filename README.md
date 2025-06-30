@@ -9,7 +9,7 @@
 <h4 align="center">visitor's count 👀</h4>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ana17hy&count_bg=000000&title_bg=000000&icon=github.svg&icon_color=FFFFFF&title=visitors&edge_flat=false&title_color=000080&count_color=000080" alt="views counter"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ana17hy&count_bg=000000&title_bg=000000&icon=github.svg&icon_color=FFFFFF&title=visits&edge_flat=false&title_color=000080&count_color=000080" alt="views counter"/>
 </p>
 
 
