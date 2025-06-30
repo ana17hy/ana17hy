@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/05/b8/b1/05b8b1180de632724fc83cc724056d79.gif" width="250" />
-</p>
 
-<p align="center">
-  <b>Computer Science Underrated 💻</b>
-</p>
+
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/f54c7363-1918-4c4a-bbf3-08a0939dd9ab"/>
+
 
 <h4 align="center">visitor's count 👀</h4>
 
@@ -12,30 +9,16 @@
   <img src="https://profile-counter.glitch.me/ana17hy/count.svg" alt="ana17hy :: visitor's count"/>
 </p>
 
+🧠 aaa
 
----
+💻 aaa
 
-### 🌸 Un poco sobre mí
+🐍 aaa
 
-- 🧠 aaa
-- 💻 aaa
-- 🐍 aaa
-- 🎀 aaa
-
----
-
-### 💿
-
-<p align="center">
-  <a href="https://open.spotify.com/user/jdbsl29ltkpw0s28xolrbj0l7">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&background_color=121212&interchange=true&bar_color=ffb6c1&bar_color_cover=false" alt="Spotify now playing" />
-  </a>
-</p>
+🎀 aaa
 
 
-
-
-### 🐍 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
   <picture>
