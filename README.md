@@ -9,7 +9,7 @@
 <h4 align="center">visitor's count 👀</h4>
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ana17hy&count_bg=000000&title_bg=000000&icon=github.svg&icon_color=FFFFFF&title=visits&edge_flat=false&title_color=000080&count_color=000080" alt="views counter"/>
+  <img src="https://profile-counter.glitch.me/ana17hy/count.svg" alt="ana17hy :: visitor's count"/>
 </p>
 
 
@@ -27,10 +27,11 @@
 ### 💿
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/3xUKeedfZDMisQPAx79k4W">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=tu_uid&cover_image=true&theme=novatorem&bar_color=ffb6c1&bar_color_cover=false" alt="Spotify now playing" />
+  <a href="https://open.spotify.com/user/jdbsl29ltkpw0s28xolrbj0l7">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&bar_color=ffb6c1&bar_color_cover=false" alt="Spotify now playing" />
   </a>
 </p>
+
 
 
 ### 🐍 
