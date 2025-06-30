@@ -26,7 +26,12 @@
 
 ### 💿
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jdbsl29ltkpw0s28xolrbj0l7_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://open.spotify.com/user/jdbsl29ltkpw0s28xolrbj0l7">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jdbsl29ltkpw0s28xolrbj0l7&cover_image=true&theme=novatorem&background_color=121212&interchange=true&bar_color=ffb6c1&bar_color_cover=false" alt="Spotify now playing" />
+  </a>
+</p>
+
 
 
 
