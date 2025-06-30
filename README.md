@@ -9,13 +9,11 @@
   <img src="https://profile-counter.glitch.me/ana17hy/count.svg" alt="ana17hy :: visitor's count"/>
 </p>
 
-🧠 aaa
-
-💻 aaa
-
-🐍 aaa
-
-🎀 aaa
+💻 computer science undergrad 
+💫 future computer scientist & girl in stem 
+🌟 just starting to code and giving it my all
+🎧 coding always feels better with music
+🌷 curious about future tech, design and creating cool things
 
 
 
