@@ -17,8 +17,8 @@
 </p>
 
 <!-- separador -->
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=23222b&height=3" width="50%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=23222b&height=3" width="30%" />
 </p>
 
 <!-- about me -->
