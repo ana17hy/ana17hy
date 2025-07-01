@@ -1,4 +1,5 @@
-![header](https://github.com/user-attachments/assets/cbb10678-b47d-4405-8d2b-055d1004f641)
+![header](https://github.com/user-attachments/assets/eee9d8b5-53ad-42dd-a965-43cbcb73d473)
+
 
 <h1 align="center">hi! 🦔</h1>
 
@@ -34,4 +35,5 @@
   </picture>
 </div>
 
-![header](https://github.com/user-attachments/assets/938ab3ae-9a60-4682-aadb-a795d806fdd0)
+![header](https://github.com/user-attachments/assets/3f0585a6-aec2-4749-ba57-9e4372dbb042)
+
