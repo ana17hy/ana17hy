@@ -1,10 +1,14 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=40&pause=1000&color=E6F7E0&background=1a1a2e00&center=true&width=500&height=75&lines=hi!+;૮₍˶ᵔ+ᵕ+ᵔ+˶+₎ა+‪‪♡;ᓚᘏᗢ+ྀིྀི" alt="hi!" />
+  <img src="https://github.com/user-attachments/assets/1b8d494a-7558-453e-aca3-122d34160707" alt="hi" width="90" />
+</p>
 
-<h1 align="center">hi! 🦔</h1>
+---
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/f54c7363-1918-4c4a-bbf3-08a0939dd9ab"/>
+<img align="right" alt="GIF" width="470" src="https://github.com/user-attachments/assets/f54c7363-1918-4c4a-bbf3-08a0939dd9ab"/>
 
 
-<h4 align="center">visitor's count 🕵🏽‍♀️</h4>
+<h3 align="center">visitor's count 🕵🏽‍♀️</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/ana17hy/count.svg" alt="ana17hy :: visitor's count"/>
@@ -12,16 +16,18 @@
 
 
  
+<h3 align="center">about me 🦔</h3>
 
-👩🏽‍💻 computer science undergrad 
+  👩🏽‍💻 computer science undergrad <br>
+  
+  💫 girl in stem & future computer scientist <br>
+  
+  🌷 just starting to code and giving it my all <br>
+  
+  🎧 coding always feels better with music <br>
+  
+  🌟 curious about future tech, design and creating cool things
 
-💫 girl in stem & future computer scientist
-
-🌷 just starting to code and giving it my all
-
-🎧 coding always feels better with music
-
-🌟 curious about future tech, design and creating cool things
 
 
 
