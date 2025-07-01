@@ -14,7 +14,7 @@
 
 👩🏽‍💻 computer science undergrad 
 
-💫 future computer scientist & girl in stem 
+💫 girl in stem & future computer scientist
 
 🌷 just starting to code and giving it my all
 
