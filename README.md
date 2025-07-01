@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" width="470" src="https://github.com/user-attachments/assets/f54c7363-1918-4c4a-bbf3-08a0939dd9ab"/>
 
 <!-- visitor's count -->
-<h3 align="center">Visitor's count 🕵🏽‍♀️</h3>
+<h3 align="center">Visitor's count&nbsp;&nbsp;🕵🏽‍♀️</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/ana17hy/count.svg" alt="ana17hy :: visitor's count"/>
@@ -24,15 +24,15 @@
 <!-- about me -->
 <h3 align="center">About me&nbsp;&nbsp;🦔</h3>
 
-👩🏽‍💻 computer science undergrad <br>
+👩🏽‍💻&nbsp;&nbsp;Computer Science undergrad
 
-💫 girl in stem & future computer scientist <br>
+💫&nbsp;&nbsp;Girl in stem & future computer scientist
 
-🌷 just starting to code and giving it my all <br>
+🌷&nbsp;&nbsp;Just starting to code and giving it my all
 
-🎧 coding always feels better with music <br>
+🎧&nbsp;&nbsp;Coding always feels better with music
 
-🌟 curious about future tech, design and creating cool things
+🌟&nbsp;&nbsp;Curious about tech and dreaming of creating cool things
 
 <!-- gusanito -->
 <div align="center">
