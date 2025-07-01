@@ -1,5 +1,3 @@
-![header](https://github.com/user-attachments/assets/eee9d8b5-53ad-42dd-a965-43cbcb73d473)
-
 
 <h1 align="center">hi! 🦔</h1>
 
@@ -34,6 +32,4 @@
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ana17hy/ana17hy/output/snake-pastel.svg" />
   </picture>
 </div>
-
-![header](https://github.com/user-attachments/assets/3f0585a6-aec2-4749-ba57-9e4372dbb042)
 
