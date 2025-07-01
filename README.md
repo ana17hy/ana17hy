@@ -22,7 +22,7 @@
 </p>
 
 <!-- about me -->
-<h3 align="center">About me 🦔</h3>
+<h3 align="center">About me&nbsp;&nbsp;🦔</h3>
 
 👩🏽‍💻 computer science undergrad <br>
 
