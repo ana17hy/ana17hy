@@ -1,3 +1,6 @@
+
+![header](https://github.com/user-attachments/assets/cbb10678-b47d-4405-8d2b-055d1004f641)
+
 <h1 align="center">hi! 🦔</h1>
 
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/f54c7363-1918-4c4a-bbf3-08a0939dd9ab"/>
@@ -32,5 +35,6 @@
   </picture>
 </div>
 
+![header](https://github.com/user-attachments/assets/938ab3ae-9a60-4682-aadb-a795d806fdd0)
 
 
