@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" width="470" src="https://github.com/user-attachments/assets/f54c7363-1918-4c4a-bbf3-08a0939dd9ab"/>
 
 <!-- visitor's count -->
-<h3 align="center">visitor's count 🕵🏽‍♀️</h3>
+<h3 align="center">Visitor's count 🕵🏽‍♀️</h3>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/ana17hy/count.svg" alt="ana17hy :: visitor's count"/>
@@ -18,11 +18,11 @@
 
 <!-- separador -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=23222b&height=3" width="30%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=23222b&height=3" width="35%" />
 </p>
 
 <!-- about me -->
-<h3 align="center">about me 🦔</h3>
+<h3 align="center">About me 🦔</h3>
 
 👩🏽‍💻 computer science undergrad <br>
 
