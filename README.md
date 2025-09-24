@@ -7,14 +7,8 @@
 ---
 
 <!-- gif snoopy -->
-<img align="right" alt="GIF" width="470" src="https://github.com/user-attachments/assets/f54c7363-1918-4c4a-bbf3-08a0939dd9ab"/>
+<img align="right" alt="GIF" width="400" src="https://github.com/user-attachments/assets/f54c7363-1918-4c4a-bbf3-08a0939dd9ab"/>
 
-<!-- visitor's count -->
-<h3 align="center">Visitor's count&nbsp;&nbsp;🕵🏽‍♀️</h3>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ana17hy/count.svg" alt="ana17hy :: visitor's count"/>
-</p>
 
 <!-- separador -->
 <p align="center">
